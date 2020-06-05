@@ -1,1 +1,0 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="C:\Users\MIGUELANGEL\Desktop\sueños\app-webshop-999\app-web-shop-999-firebase-adminsdk-ba7n5-c7b3d822a7.json"
